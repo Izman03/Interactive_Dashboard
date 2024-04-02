@@ -1,3 +1,6 @@
+
+![SALES_MONTH](https://github.com/Izman03/Interactive_Dashboard-/assets/116131757/d256e668-843c-43b4-8695-1edccff805c0)
+
 Monthly Sales Interactive Dashboard
 Overview
 This interactive dashboard provides a comprehensive overview of monthly sales, profitability, and customer engagement metrics. Designed with a user-friendly interface, it allows for in-depth analysis and insight into sales trends and performance.
